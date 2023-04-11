@@ -1,0 +1,13 @@
+.menu-bar {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: centre;
+  background-color: #decf44;
+}
+.menu-items {
+  margin-right: 50px;
+}
+.menu-items a {
+  padding: 20px;
+}
